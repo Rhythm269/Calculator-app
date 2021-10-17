@@ -1,0 +1,23 @@
+h1 {
+	color: saddlebrown;
+	margin-top: auto;
+	text-align: center;
+}
+
+input {
+	font-size: 15px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+}
+
+button {
+	margin: 15px;
+	padding: 10px;
+	background-color: rgb(139, 150, 65);
+	font-size: 16px;
+}
+
+body {
+	background-color: #FDF8F5;
+}
